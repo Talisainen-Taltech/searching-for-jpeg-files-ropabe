@@ -8,4 +8,4 @@ The same set of files is located on [TalTech server](https://upload.itcollege.ee
 1. Open files in binary mode using [os module](https://docs.python.org/3/library/os.html), check their signature and either add jpeg extention or delete them
 2. Download the files from TalTech server automatically using [requests](https://docs.python-requests.org/en/latest/index.html) module and extract them automatically using [zipfile](https://docs.python.org/3/library/zipfile.html) module.
 
-Ei oska teha. Pythonit ega skriptimist ei mäleta.
+Mitte midagi ei oska. Pythonit ega skriptimist ei mäleta.
